@@ -11,7 +11,7 @@ product: NLP352
 frequency: n/a
 
 # A list of terms used to subset the corpus
-terms: [pyrite nodule, pyrite nodules, pyrite concretion, pyrite concretions, pyritic nodule, pyritic nodules, pyritic concretion, pyritic concretions, nodular pyrite, nodules of pyrite, concretionary pyrite, concretions of pyrite, pyrite framboid, pyrite framboids, framboidal pyrite, organic sulphur, organic sulfur, sulphurized, sulfurized, lenticular mudstone, lenticular mudstones, lenticular mud, lenticular muds, microbial mat, microbial mats, chemosynthetic mat, chemosynthetic mats, benthic mat, benthic mats, stromatolite, stromatolitic, thrombolite, thrombolitic]
+terms: [pyrite nodule, pyrite nodules, pyrite concretion, pyrite concretions, pyritic nodule, pyritic nodules, pyritic concretion, pyritic concretions, nodular pyrite, nodules of pyrite, concretionary pyrite, concretions of pyrite, pyrite framboid, pyrite framboids, framboidal pyrite, organic sulphur, organic sulfur, sulphurized, sulfurized, lenticular mudstone, lenticular mudstones, lenticular mud, lenticular muds, microbial mat, microbial mats, chemosynthetic mat, chemosynthetic mats, benthic mat, benthic mats, stromatolite, stromatolitic, thrombolite, thrombolitic, pyrite, pyritic]
 
 # Stored dictionary of terms, to be set by GDD infrastructure admins
 dictionary: ???
