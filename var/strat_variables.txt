@@ -8,7 +8,7 @@ DICT_DELIM='$$$'
 #words indicating stratigraphic names
 strat_flags = ["Group", "Formation", "Member", "Supergroup", "Bed", "Subgroup","Gp.", "Fm.", "Mbr.", "SGp.", "Gp", "Fm", "Mbr", "SGp"]
     
-lith_flags = ["Dolomite","Dolostone","Limestone","Sandstone","Shale","Conglomerate","Chert", "Mudstone"]
+lith_flags = ["Dolomite","Dolostone","Limestone","Sandstone","Shale","Conglomerate","Chert", "Mudstone", "Mudrock"]
 
 strat_flags = strat_flags+lith_flags
               
