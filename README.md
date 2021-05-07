@@ -1,7 +1,7 @@
 # Pyrite machine reading application
 This is a fork of the [GeoDeepDive](https://geodeepdive.org) text mining application used in Peters, Husson and Wilcots [2017, Geology](http://doi.org/10.1130/G38931.1). 
 
-### Please see [the original stromatolites application](https://github.com/UW-Macrostrat/stromatolites_demo) for a comprehensive description of the method and depenencies.
+### Please see [the original stromatolites application](https://github.com/UW-Macrostrat/stromatolites_demo) for a comprehensive description of the method and dependencies.
 
 This application uses a combination of Python and PostgreSQL.
 
