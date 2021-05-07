@@ -23,6 +23,3 @@ strat\_name\_id| stratigraphic name id for the Macrostrat database. For example,
 in\_ref| application determination ([ext_references.py](https://github.com/UW-Macrostrat/stromatolites/blob/master/udf/ext_references.py)) if the extracted tuple came from the reference list of the specified document.
 source| classifier indicating whether the extraction was from the same sentence ("in\_sent") or from a nearby sentence ("out\_sent").
 phrase| full phrase that serves as basis for the determination that the stratigraphic phrase contains stromatolite fossils.
-
-## License
-CC-BY 4.0 International
