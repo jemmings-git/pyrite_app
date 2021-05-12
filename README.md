@@ -8,6 +8,11 @@ This application uses a combination of Python and PostgreSQL.
 ## Results Summary
 The `results` table is a CSV file exported to the folder `/output`. In the file, each row is a stratigraphic name 
 that contains pyrite according to the application logic - that is, each row is a "pyrite-stratigraphic name" tuple.
+
+The results table in this fork is a clone of the original stromatolites demo.
+
+The [pyrite results](https://geodeepdive.org/app_output/jemmings_with_pyrite_24Oct2019.zip) are imported and analysed in the accompanying pyrite-analysis repository.
+
 Columns of each row contain information about the extracted tuple, including which document and phrase it came from and the link
 between the discovered stratigraphic name and the Macrostrat database (if such a link exists). The columns are detailed below:
 
