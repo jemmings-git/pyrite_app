@@ -30,7 +30,7 @@ that contains pyrite according to the application logic - that is, each row is a
 
 The results table in this fork is a clone of the original stromatolites demo.
 
-The [pyrite results](https://geodeepdive.org/app_output/jemmings_with_pyrite_24Oct2019.zip) are imported and analysed in the accompanying [pyrite-analysis](https://github.com/jemmings-git/pyrite-analysis) repository.
+The [pyrite results](https://geodeepdive.org/app_output/jemmings_with_pyrite_24Oct2019.zip) are imported and analysed in the accompanying [pyrite_analysis](https://github.com/jemmings-git/pyrite_analysis) repository.
 
 Columns of each row contain information about the extracted tuple, including which document and phrase it came from and the link
 between the discovered stratigraphic name and the Macrostrat database (if such a link exists). The columns are detailed below:
