@@ -6,7 +6,7 @@ This is a fork of the [GeoDeepDive](https://geodeepdive.org) text mining applica
 This application uses a combination of Python and PostgreSQL.
 
 ### This code accompanies a manuscript submitted to *Science Advances* in May 2021
-#### Title: Pyrite meta-analysis reveals modes of anoxia through geological time
+#### Title: Pyrite mega-analysis reveals modes of anoxia through geological time
 #### Authors: Joseph F. Emmings<sup>1,2</sup>, Simon W. Poulton<sup>3</sup>, Joanna Walsh<sup>4,5</sup>, Kathryn A. Leeming<sup>1</sup>, Ian Ross<sup>6</sup>, Shanan Peters<sup>7</sup>
 
 ### Affiliations 
